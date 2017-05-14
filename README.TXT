@@ -19,7 +19,7 @@ Program can be executed by calling main code from the directory of choice as (al
 
 
 
-python /path/to/the/directory/optimization/optimize.py target_input.opt
+python /path/to/the/directory/optimize.py target_input.opt
 
 
 

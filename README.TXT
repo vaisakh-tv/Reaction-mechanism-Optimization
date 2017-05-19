@@ -24,6 +24,7 @@ python /path/to/the/directory/optimize.py target_input.opt
 
 
 
+Separate home directory should be created for each execution of the code. Presence of directories from previous execution or files like "loctions" and "progress" (Created by the program) can interfere with execution paths and code may fail.
 
 
 
